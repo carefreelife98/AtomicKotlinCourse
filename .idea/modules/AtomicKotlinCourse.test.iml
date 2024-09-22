@@ -44,7 +44,7 @@
     </facet>
   </component>
   <component name="NewModuleRootManager">
-    <output-test url="file://$MODULE_DIR$/../../out/test/classes" />
+    <output-test url="file://$MODULE_DIR$/../../build/classes/java/test" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../Appendices/AtomicTest/Examples/test" />
     <content url="file://$MODULE_DIR$/../../Appendices/Java Interoperability/Examples/test" />

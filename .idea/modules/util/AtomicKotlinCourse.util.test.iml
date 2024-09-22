@@ -44,7 +44,7 @@
     </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
-    <output-test url="file://$MODULE_DIR$/../../../util/out/test/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../util/build/classes/java/test" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../util/src/test" />
     <orderEntry type="inheritedJdk" />
